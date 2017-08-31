@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9BC26E851F588EAE00CE9E68 /* inter_erego_cours01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = inter_erego_cours01.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BC26E851F588EAE00CE9E68 /* inter_ergo_cours01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = inter_ergo_cours01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BC26E881F588EAE00CE9E68 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BC26E8A1F588EAE00CE9E68 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9BC26E8D1F588EAE00CE9E68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		9BC26E861F588EAE00CE9E68 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9BC26E851F588EAE00CE9E68 /* inter_erego_cours01.app */,
+				9BC26E851F588EAE00CE9E68 /* inter_ergo_cours01.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9BC26E841F588EAE00CE9E68 /* inter_erego_cours01 */ = {
+		9BC26E841F588EAE00CE9E68 /* inter_ergo_cours01 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9BC26E971F588EAE00CE9E68 /* Build configuration list for PBXNativeTarget "inter_erego_cours01" */;
+			buildConfigurationList = 9BC26E971F588EAE00CE9E68 /* Build configuration list for PBXNativeTarget "inter_ergo_cours01" */;
 			buildPhases = (
 				9BC26E811F588EAE00CE9E68 /* Sources */,
 				9BC26E821F588EAE00CE9E68 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = inter_erego_cours01;
+			name = inter_ergo_cours01;
 			productName = inter_erego_cours01;
-			productReference = 9BC26E851F588EAE00CE9E68 /* inter_erego_cours01.app */;
+			productReference = 9BC26E851F588EAE00CE9E68 /* inter_ergo_cours01.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9BC26E801F588EAE00CE9E68 /* Build configuration list for PBXProject "inter_erego_cours01" */;
+			buildConfigurationList = 9BC26E801F588EAE00CE9E68 /* Build configuration list for PBXProject "inter_ergo_cours01" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9BC26E841F588EAE00CE9E68 /* inter_erego_cours01 */,
+				9BC26E841F588EAE00CE9E68 /* inter_ergo_cours01 */,
 			);
 		};
 /* End PBXProject section */
@@ -283,7 +283,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9BC26E801F588EAE00CE9E68 /* Build configuration list for PBXProject "inter_erego_cours01" */ = {
+		9BC26E801F588EAE00CE9E68 /* Build configuration list for PBXProject "inter_ergo_cours01" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9BC26E951F588EAE00CE9E68 /* Debug */,
@@ -292,7 +292,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9BC26E971F588EAE00CE9E68 /* Build configuration list for PBXNativeTarget "inter_erego_cours01" */ = {
+		9BC26E971F588EAE00CE9E68 /* Build configuration list for PBXNativeTarget "inter_ergo_cours01" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9BC26E981F588EAE00CE9E68 /* Debug */,
